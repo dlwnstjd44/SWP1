@@ -1,2 +1,2 @@
 20213059 junseong
-Kookmin Univ. SW
+Kookmin Univ. SW Dept.
