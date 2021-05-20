@@ -1,2 +1,3 @@
-20213059	 junseong
+20213059:junseong
+
 Kookmin Univ. SW Dept.
